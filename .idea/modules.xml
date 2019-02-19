@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/validation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validationdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/validationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validationdemo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/validationdemo-build.iml" />
     </modules>
   </component>
 </project>
