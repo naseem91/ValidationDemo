@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b825747-44f3-4869-ab7a-e834aeb637e2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/validation-build.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/validation.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d6199ee9f9d552c8b63$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d6199ee9f9d552c8b63.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d6199ee9f9d552c8b63.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35234621220490ccb4fe$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35234621220490ccb4fe.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35234621220490ccb4fe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d66ec4f3a9a6a80f80d3$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d66ec4f3a9a6a80f80d3.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d66ec4f3a9a6a80f80d3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da3504e6afcd38e9fa45$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da3504e6afcd38e9fa45.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da3504e6afcd38e9fa45.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e728f8c6b57ddf7b2069$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e728f8c6b57ddf7b2069.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e728f8c6b57ddf7b2069.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
@@ -343,6 +323,14 @@
       <option name="presentableId" value="Default" />
       <updated>1521290718793</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding another demo for validation">
+      <created>1550578330395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550578330396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,6 +404,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding another demo for validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding another demo for validation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
